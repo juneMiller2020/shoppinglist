@@ -1,0 +1,12 @@
+.cool {
+  text-align: center;
+  font-size: 10px;
+  margin-left:12px;
+  padding: 4px 4px;
+  background-color: pink;
+  border: none;
+}
+
+.done {
+  text-decoration: line-through;
+}
